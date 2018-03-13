@@ -1,6 +1,6 @@
 {
-  "name": "tsc-watch",
-  "version": "1.0.16",
+  "name": "tsc-watch-2",
+  "version": "0.0.0",
   "description": "The TypeScript compiler with onSuccess command",
   "scripts": {
     "test": "mocha test/**/*.js"
@@ -10,17 +10,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/gilamran/tsc-watch.git"
+    "url": "git+ssh://git@github.com/amir-arad/tsc-watch.git"
   },
   "keywords": [
     "TypeScript"
   ],
-  "author": "Gil Amran",
+  "author": "Amir Arad",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gilamran/tsc-watch/issues"
+    "url": "https://github.com/amir-arad/tsc-watch/issues"
   },
-  "homepage": "https://github.com/gilamran/tsc-watch#readme",
+  "homepage": "https://github.com/amir-arad/tsc-watch#readme",
   "dependencies": {
     "chalk": "^2.3.0",
     "cross-spawn": "^5.1.0",
