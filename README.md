@@ -4,6 +4,7 @@
 - `--onSuccess COMMAND` - The `COMMAND` will be executed on every successful TypeScript compilation, and killed on the next success.
 - `--onFirstSuccess COMMAND` - The `COMMAND` will be executed only one time, on the first successful TypeScript compilation.
 - `--onFailure COMMAND` - The `COMMAND` will be executed on failed TypeScript compilation.
+- `--noColors` - `tsc-watch` colors the output with green on success, and in red on failiure. Add this argument to prevent that.
 
 All above `COMMAND`s will be killed on process exit
 
